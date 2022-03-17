@@ -1,5 +1,4 @@
-# MABe_2022_TVAE
-Trajectory Variational Autoencder baseline for Multi-Agent Behavior challenge 2022
+# MABe_2022_TVAE: a Trajectory Variational Autoencoder baseline for the 2022 Multi-Agent Behavior challenge
 
 This repository contains jupyter notebooks that implement a trajectory variational autoencoder (tVAE) baseline model for embedding the [mouse](https://www.aicrowd.com/challenges/multi-agent-behavior-challenge-2022/problems/mabe-2022-mouse-triplets) and [fly](https://www.aicrowd.com/challenges/multi-agent-behavior-challenge-2022/problems/mabe-2022-fruit-fly-groups) trajectory datasets for the [2022 Multi-Agent Behavior Challenge](https://www.aicrowd.com/challenges/multi-agent-behavior-challenge-2022).
 
