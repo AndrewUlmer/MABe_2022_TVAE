@@ -7,8 +7,9 @@ This repository contains jupyter notebooks that implement a trajectory variation
 |Mouse trajectories| 0.121 | 0.095 | 0.339 | 0.479 | 0.021 | 0.491 | x |
 |Fly trajectories| 0.291 | x | 0.0 | 0.0 | 0.0 | 0.388 | 0.539 |
 
-Where the "task F1" values are F1 scores on specific sample evaluation tasks. Note, while this baseline is outperforming PCA for the mice, it actually does significantly worse than PCA for the flies!
+Where the "task F1" values are F1 scores on specific sample evaluation tasks. Note, while this baseline is outperforming PCA for the mice, it actually does significantly worse than PCA for the flies! (Why? Who knows!)
 
-To use these notebooks, clone this repository and open **train_mouse_tvae.ipynb** or **train_fly_tvae.ipynb** in a jupyter notebook session. Follow notebook instructions to make your own submission, then play with the model architecture and parameters inside the `tvae` directory to see if you are able to improve performance!
+## How to use these notebooks
+Clone this repository and open **train_mouse_tvae.ipynb** or **train_fly_tvae.ipynb** in a jupyter notebook session. Follow notebook instructions to make your own submission, then play with the model architecture and parameters inside the `tvae` directory to see if you are able to improve performance!
 
 Note, you'll need to download the mouse and/or fly datasets into the provided `mouse_data` and `fly_data` directories to use this code.
